@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /**
- * print_c - prints a char
- * @c: char to print
+ * print_c - To print a char
+ * @c: char argument to be printed
  *
- * Return: always 1
+ * Return: exits 1
  */
 int print_c(va_list c)
 {
